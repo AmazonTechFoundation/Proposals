@@ -1,0 +1,34 @@
+# Proposal Name
+
+* Author: [McLovin DoGooder](https://github.com/mclovin)
+* Status: **Awaiting review**
+* Review manager: TBD
+
+## Introduction
+
+A short description of what the feature is. Try to keep it to a
+single-paragraph "elevator pitch" so the reader understands what
+problem this proposal is addressing.  
+
+## Motivation
+
+Describe the problems that this proposal seeks to address. 
+
+## Proposed solution
+
+Describe your solution to the problem. Provide examples and describe
+how they work. Show how your solution is better than current
+workarounds: is it cleaner, safer, or more efficient?
+
+## Detailed design
+
+Describe the design of the solution in detail. 
+
+## Impact
+
+Describe the impact that this proposal will have.
+
+## Alternatives considered
+
+Describe alternative approaches to addressing the same problem, and
+why you chose this approach instead.
