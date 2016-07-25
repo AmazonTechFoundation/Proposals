@@ -1,8 +1,7 @@
 # Swift Español
 
 * Author: [Alsey Coleman Miller](https://github.com/colemancda)
-* Status: **Awaiting review**
-* Review manager: TBD
+* Status: **Accepted**
 
 ## Introduction
 
